@@ -83,3 +83,12 @@ p {
   float: left;
   width: 50px;
 }
+
+/* you can set an image to be the background of an HTML Element. you use the background-image property, and pass in a link
+
+EX:
+.main-banner {
+  background-image: url("images/mountains.jpg");
+}
+
+ */

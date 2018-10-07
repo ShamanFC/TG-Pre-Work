@@ -83,3 +83,12 @@ p {
   float: left;
   width: 50px;
 }
+
+/* you can set the opacity of an HTML Element with the opacity property. it takes in a value of between 0 and 1
+
+EX:
+.content{
+opacity: 0.5;
+}
+
+ */

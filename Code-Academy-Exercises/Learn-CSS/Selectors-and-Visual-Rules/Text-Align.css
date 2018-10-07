@@ -80,3 +80,5 @@ p {
   float: left;
   width: 50px;
 }
+
+/* text alignment by default is set to left. The text will always align to the left, you can change it to be centered or right aligned.  */

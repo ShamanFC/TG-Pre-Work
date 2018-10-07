@@ -78,3 +78,5 @@ p {
   float: left;
   width: 50px;
 }
+
+/* using font-size to change the size of an elements font. I noticed you can also feed in % values instead of px values and it changes font size relative to the original size of the selected HTML element. */
