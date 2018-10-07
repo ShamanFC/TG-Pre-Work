@@ -12,3 +12,17 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* instead of % and px amounts for grid dimensions, you can use fr, or fraction
+
+.grid {
+  display: grid;
+  width: 1000px;
+  height: 400px;
+  grid-template: 2fr 1fr 1fr / 1fr 3fr 1fr;
+}
+
+2fr 1fr 1fr divides the grid into four parts, the first column taking up 2/4 and the other two taking up 1/4 of the total width.
+
+ */

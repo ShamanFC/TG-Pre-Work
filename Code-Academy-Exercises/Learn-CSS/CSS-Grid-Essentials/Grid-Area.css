@@ -25,3 +25,18 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* grid-area takes column and row start and end, and allows you to create an item that spans across multiple rows and columns
+
+
+.item {
+  grid-area: 2 / 3 / 4 / span 5;
+}
+
+starts at row 2
+starts at column 3
+ends at row 4
+spans 5 columns
+
+  */

@@ -23,3 +23,8 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* same as grid-row but with columns
+
+vertical sizing flexibility, and spanning across multiple columns. */

@@ -11,3 +11,16 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+/* the minmax function is used to pass a size parameter, but allow it to grow and shrink within the set constraints
+
+
+.grid {
+  display: grid;
+  grid-template-columns: 100px minmax(100px, 500px) 100px;
+}
+
+first and third column can only be 100px, but the middle column has a flexible value of between 100px and 500px
+
+
+ */

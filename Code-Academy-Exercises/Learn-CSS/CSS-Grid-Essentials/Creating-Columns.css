@@ -12,3 +12,14 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* by default, a grid only has one column, add arguments for column width into grid-template-columns to create additional columns
+
+a two column grid
+grid-template-columns: 100px 200px;
+
+a four column grid where the last two take up 10% of the remaining space and 50% respectivly.
+grid-template-columns: 100px 200px 10% 50%;
+
+ */

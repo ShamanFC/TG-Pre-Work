@@ -13,3 +13,15 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* the same concept applies to rows, except that each item added to a grid is placed on a new row by default
+
+to specify:
+
+grid-template-columns: 100px 200px;
+ grid-template-rows: 10% 20% 600px;
+
+ this is a 2 column 3 row grid.
+
+ */

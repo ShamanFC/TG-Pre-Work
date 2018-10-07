@@ -12,3 +12,12 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* you can configure both rows and columns in one property:
+
+grid-template: 200px 300px / 20% 10% 70%;
+
+this is the same grid as in the last excersize, but reduced to a one line operation.
+
+ */

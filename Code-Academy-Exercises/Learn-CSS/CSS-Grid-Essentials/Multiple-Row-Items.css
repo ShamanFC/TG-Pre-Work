@@ -18,3 +18,5 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+/* grid-row-start and grid-row-end allow a grid item to start in one row, and span across multiple rows, instead of being locked into one row and one column. */

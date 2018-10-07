@@ -11,3 +11,10 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* when creating a grid you need a grid container, and grid items.
+to turn an HTML Element into a grid container, you must set the elements display property to grid
+
+an inline grid is made by changing the display property to inline-grid.
+ */

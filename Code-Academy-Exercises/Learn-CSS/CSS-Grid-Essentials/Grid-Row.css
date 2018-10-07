@@ -17,3 +17,18 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
+
+
+/* instead of using row-start and row-end you can pass both arguments into grid-row
+
+.item {
+  grid-row-start: 4;
+  grid-row-end: 6;
+}
+
+Becomes....
+
+.item {
+  grid-row: 4 / 6;
+}
+ */
