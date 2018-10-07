@@ -164,3 +164,9 @@ a.home {
     display: none;
   }
 }
+
+/* use the line-height property to set how much vertical space you want between lines of text
+p {
+  line-height: 1.4;
+}
+*/

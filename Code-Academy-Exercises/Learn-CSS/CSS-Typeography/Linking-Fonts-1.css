@@ -175,3 +175,8 @@ a.home {
     display: none;
   }
 }
+
+
+/* you can link a font from sources locally, stored in your project file, as well as link fonts from resources online like google fonts.
+
+doing the latter is a safe way to ensure users have a the font your stylesheet calls for*/

@@ -160,3 +160,10 @@ a.home {
     display: none;
   }
 }
+
+/* you can set the space between words in a body of text
+
+h1 {
+  word-spacing: 0.3em;
+}
+ */

@@ -156,3 +156,8 @@ a.home {
     display: none;
   }
 }
+
+/* font family is a more verbose way of choosing a @font-face {
+
+  font-family: comic sans;
+} */

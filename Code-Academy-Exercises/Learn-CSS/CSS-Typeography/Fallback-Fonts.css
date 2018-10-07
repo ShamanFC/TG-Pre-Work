@@ -171,3 +171,8 @@ a.home {
 .helvetica .sample .text{
   font-family: Helvetica, sans-serif;
 }
+
+
+/* fallback fonts are the fonts the browser displays if the original fonts are not installed/found on the system viewing the webpage.
+
+definitely seems like a good habit to get into, to maintain style integrity across a variety of systems. */

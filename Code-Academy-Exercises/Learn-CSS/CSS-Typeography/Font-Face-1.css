@@ -191,3 +191,5 @@ a.home {
     display: none;
   }
 }
+
+/* @font-face is a css rule which allows you to download a particular font from your server to render a webpage if the user hasn't got that font installed. This means that web designers will no longer have to adhere to a particular set of "web safe" fonts that the user has pre-installed on their computer. */

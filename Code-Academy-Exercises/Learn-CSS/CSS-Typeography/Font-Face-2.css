@@ -191,3 +191,14 @@ a.home {
     display: none;
   }
 }
+
+/* use @font-face to load a font from an external source, then use it in your CSS normally
+
+@font-face {
+  font-family: "Glegoo";
+  src: url(../fonts/Glegoo-Regular.ttf) format('truetype');
+
+  html {
+  font-size: 16px;
+  font-family: "Glegoo";
+}*/

@@ -158,3 +158,11 @@ a.home {
     display: none;
   }
 }
+
+/* font-weight can also handle more technical font weight numbers:
+
+400 is the default font-weight of most text.
+700 signifies a bold font-weight.
+300 signifies a light font-weight.
+
+ */
