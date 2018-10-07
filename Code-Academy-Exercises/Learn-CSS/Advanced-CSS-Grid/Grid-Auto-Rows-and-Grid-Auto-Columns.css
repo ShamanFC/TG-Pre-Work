@@ -92,3 +92,13 @@ img {
 footer {
   margin-top: 44px;
 }
+
+
+/* grid-auto-rows specifies the height of implicitly added grid rows. grid-auto-columns specifies the width of implicitly added grid columns.
+
+grid-auto-rows and grid-auto-columns accept the same values as their explicit counterparts, grid-template-rows and grid-template-columns:
+
+pixels (px)
+percentages (%)
+fractions (fr)
+the repeat() function */

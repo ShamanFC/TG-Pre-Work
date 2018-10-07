@@ -42,3 +42,8 @@ footer {
   background-color: dodgerblue;
   grid-area: 9 / 1 / 13 / 7;
 }
+
+
+/* you can use grid-area to cause grid elements to overlap!
+
+the browser will go to the z-index to determine which element will be displayed on the top. */

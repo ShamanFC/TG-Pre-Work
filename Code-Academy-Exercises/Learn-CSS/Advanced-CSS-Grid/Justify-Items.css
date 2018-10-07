@@ -88,3 +88,10 @@ img {
 footer {
   margin-top: 44px;
 }
+
+
+/* justify-items aligns grid items
+start aligns to the left
+end aligns to the right
+center aligns to the center
+and stretch stretches all items to fill the grid area */

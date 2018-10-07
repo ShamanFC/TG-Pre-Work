@@ -1,0 +1,9 @@
+/*
+an explicit grid is a grid created with all of the information that will be displayed known, and styled accordingly
+
+an implicit grid is made when the the amount of items in a grid is greater than specified. CSS takes over with an algorithm;
+
+items take up rows, adding more if nessicary - new rows will only be tall enough to contain the content
+
+
+ */

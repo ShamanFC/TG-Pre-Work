@@ -90,3 +90,14 @@ img {
 footer {
   margin-top: 44px;
 }
+
+
+/* align-items positions items along the block axis, it's vertical positioning
+it takes the same values as justify-items,
+
+start
+end
+center
+stretch
+
+ */

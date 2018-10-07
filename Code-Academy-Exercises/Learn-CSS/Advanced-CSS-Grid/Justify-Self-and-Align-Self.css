@@ -92,3 +92,13 @@ img {
 footer {
   margin-top: 44px;
 }
+
+
+/* justify-self and align-self are a element-level positioning property, placed on individual objects in a grid.
+it takes the same arguments again
+
+start
+end
+center
+stretch
+ */

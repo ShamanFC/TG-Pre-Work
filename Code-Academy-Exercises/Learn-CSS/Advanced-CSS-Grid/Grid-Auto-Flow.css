@@ -93,3 +93,15 @@ img {
 footer {
   margin-top: 44px;
 }
+
+
+/* grid-auto-flow specifies where to place new items (rows vs. columns)
+
+grid-auto-flow:
+  row (fills rows left to right and creates new rows when full)
+  column (fills columns top to bottom and creates new when full)
+  dense (starts an algorithm that attempts to fill holes)
+
+grid-auto-flow: row dense; - row placement but fills in previous holes
+
+  */
