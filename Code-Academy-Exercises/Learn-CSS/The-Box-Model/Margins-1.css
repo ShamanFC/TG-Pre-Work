@@ -110,3 +110,5 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* margins are the space outside the box, between each element. you could use margins to keep two seprate elements apart. It's usage is nearly the exact same as padding.  */

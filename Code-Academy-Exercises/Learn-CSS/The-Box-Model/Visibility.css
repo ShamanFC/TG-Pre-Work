@@ -127,3 +127,5 @@ p {
 .donate{
   visibility: hidden;
 }
+
+/* visibility property can be set to hidden. you could use javascript to toggle hiding and showing an object when you hit a button maybe? */

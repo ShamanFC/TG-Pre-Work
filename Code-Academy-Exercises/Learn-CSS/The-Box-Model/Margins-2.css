@@ -111,3 +111,11 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* again, along with ALL the previous methods of using padding and margins, you can use two numbers to apply either margins or padding to top&bottom and left&right
+
+EX:
+p {
+  margin: 6px 12px;
+}
+ */

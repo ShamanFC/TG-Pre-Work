@@ -1,0 +1,5 @@
+/* margin collapse takes the bigger of two touching margins and uses that one.
+
+if two objects are touching, margin-bottom of object a is 10, and margin-top of object b is 30 - the effective margin becomes 30, and the 10px margin is collapsed into object Bs
+
+*/

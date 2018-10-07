@@ -116,3 +116,11 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* overflow is an organizational property, that controls what happens to content that spills out of its box.
+
+hidden - when set to this value, any content that overflows will be hidden from view.
+scroll - when set to this value, a scrollbar will be added to the element's box so that the rest of the content can be viewed by scrolling.
+visible - when set to this value, the overflow content will be displayed outside of the containing element. Note, this is the default value.
+
+ */

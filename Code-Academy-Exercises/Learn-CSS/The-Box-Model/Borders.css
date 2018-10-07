@@ -104,3 +104,10 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* the border is a line that surrounds an element. borders have 3 arguments, width style and color.
+
+border: 3px solid blac
+border: 1px dashed red
+border: 1px double yellow
+ */

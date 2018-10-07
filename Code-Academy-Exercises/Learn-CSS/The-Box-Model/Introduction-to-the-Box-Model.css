@@ -116,3 +116,16 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* every HTML Element lives inside of a box.
+
+Boxes have the following dimensional properties:
+
+height
+width
+padding
+border
+margin
+overflow
+
+ */

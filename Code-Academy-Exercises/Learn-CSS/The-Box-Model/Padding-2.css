@@ -108,3 +108,11 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+
+/* along with the previous ways of adding padding to an element, you can also pass in all four sides in one property
+
+EX:
+padding: 6px 11px 4px 9px;
+
+ */

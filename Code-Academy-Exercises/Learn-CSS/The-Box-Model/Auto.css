@@ -114,3 +114,12 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* the auto argument will evenly center an object within its container.
+div {
+  margin: 0 auto;
+}
+
+this sets the top/bottom margin to 0 and the left/right margins equal, centering the object horozontially in its container.
+
+ */

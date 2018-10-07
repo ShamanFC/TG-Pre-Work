@@ -120,3 +120,6 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* setting min and max-width ensures that an object is never resized bigger/smaller than the given amount.
+this is especially useful in content that scales automatically as the browser window resizes. */

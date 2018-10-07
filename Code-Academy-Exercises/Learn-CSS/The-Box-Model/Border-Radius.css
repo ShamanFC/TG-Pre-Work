@@ -106,3 +106,7 @@ p {
   border: 1px solid red;
   color: red;
 }
+
+/* using border-radius rounds off the corners of a border by a % amount, while by default the corners are a hard right angle.
+
+this would definitely be useful in creating nice sleek UI buttons.  */
