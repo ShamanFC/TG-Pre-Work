@@ -5,3 +5,5 @@ p {
 h1{
   color: maroon;
 }
+
+/* selecting a specific type of HTML element is easy, <p> elements are selected with p, <h1> with h1. */

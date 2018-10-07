@@ -21,3 +21,5 @@ text-transform: capitalize;
 .publish-time {
   color: gray;
 }
+
+/* While classes are meant to be used many times, an ID is meant to style only one element. Id's are more specific and important! */

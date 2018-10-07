@@ -25,3 +25,9 @@ h1{
 .capitalize {
   text-transform: capitalize;
 }
+
+/* h1 < .class < #id
+
+ids are most specific
+classes are less
+tags are the least*/

@@ -13,3 +13,9 @@ h1{
 .uppercase {
     text-transform: uppercase;
 }
+
+/* you can create specifically styled classes in CSS and add multiple classes to one HTML Element in your HTML Document
+
+EX:
+<h1 class="uppercase title"> ... </h1>
+ */

@@ -33,3 +33,14 @@ h2.destination {
 .description h5 {
   color: teal;
 }
+
+
+/* with css, you can also select HTML elements that are nested within other HTML Elements.
+
+selecting all list items within list todoList
+
+.todoList li {
+
+}
+
+ */

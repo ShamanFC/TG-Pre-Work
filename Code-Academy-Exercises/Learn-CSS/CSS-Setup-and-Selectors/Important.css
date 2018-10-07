@@ -37,3 +37,5 @@ h2.destination {
 h5 {
   color: rebeccapurple !important;
 }
+
+/* at the very top of the specificity food chain is !important, these styles are applied regardless of speceficity. */

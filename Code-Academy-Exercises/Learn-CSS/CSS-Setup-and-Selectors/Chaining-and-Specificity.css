@@ -37,3 +37,5 @@ h2.destination {
 h5 {
   color: rebeccapurple;
 }
+
+/* a chained selector is more specific than a class or a tag selector alone. */
