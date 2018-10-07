@@ -102,3 +102,11 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+
+/*  a block level element is an element that isnt displayed in the same line as the content around it. these element fill the whole width of the webpage by default.
+
+strong {
+  display: block;
+}
+
+*/

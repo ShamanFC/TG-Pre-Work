@@ -105,3 +105,10 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+
+/* clear property determines what happens when an item collide with another item.
+
+left — the left side of the element will not touch any other element within the same containing element.
+right — the right side of the element will not touch any other element within the same containing element.
+both — neither side of the element will touch any other element within the same containing element.
+none — the element can touch either side. */

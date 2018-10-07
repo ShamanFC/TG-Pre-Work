@@ -110,3 +110,7 @@
 
 </body>
 </html>
+
+/* <strong> and <em> are inline tags, because it displays its content on the same line as the content surrounding it. you can also use css to make any element inline,
+
+display: inline; */

@@ -106,3 +106,10 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+
+
+/* the float property forces an element to move as far in the specified direction as possible
+
+float:left
+
+this would force all objects to sit as far left as possible without colliding. */

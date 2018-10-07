@@ -101,3 +101,6 @@ footer {
   background: #C0D6DF;
   color: #FFF;
 }
+
+
+/* z-index is essentially the front to back heirarchy. you can place an item at z-index: 1 and it remains infront of other objects, coupled with position: absolute, you have an item with a static position, even when scrolling, and remains in front of all objects. */
