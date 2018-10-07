@@ -33,3 +33,15 @@ body {
 .foreground {
   background-color: hsl(325, 50%, 50%);
 }
+
+
+/*
+HSL is by-far the most complicated color picking method.
+
+H is the hue - an angle chosen out of the 360 degrees on a color wheel
+S is saturation - the intensity or purity of a color.
+L is lightness - how light or dark the color is. halfway/50% is normal.
+
+color: hsl(120, 60%, 70%); -- lime green
+
+ */

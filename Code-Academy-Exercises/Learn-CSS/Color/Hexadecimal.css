@@ -146,3 +146,10 @@ a {
   text-decoration: none;
   letter-spacing: 2px;
 }
+
+/* hex colors begin with a # and have 3 or 6 characters after that
+16 possible digits, starting at 0 and ending at F.
+
+background-color: #9932cc;
+
+ */

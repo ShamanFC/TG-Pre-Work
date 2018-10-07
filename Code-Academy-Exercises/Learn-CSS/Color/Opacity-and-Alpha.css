@@ -33,3 +33,8 @@ body {
 .foreground {
   background-color: hsla(325, 50%, 50%, 0.6);
 }
+
+
+/* adding an alpha channel to a color sets its transparency
+
+color: hsla(34, 100%, 50%, 0.1);  */

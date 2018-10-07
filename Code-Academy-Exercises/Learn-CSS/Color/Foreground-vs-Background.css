@@ -146,3 +146,6 @@ a {
   text-decoration: none;
   letter-spacing: 2px;
 }
+/* forground color is the color of the content of an element - text, etc. - called with color: red;
+background color is the color of the bacground of an element - background-color: green;
+ */
